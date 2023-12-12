@@ -1,0 +1,11 @@
+body{
+    background:linear-gradient(blue,rgb(187, 0, 255)) no-repeat;
+}
+.heading{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.hello{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
